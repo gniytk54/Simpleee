@@ -1,0 +1,6 @@
+owner=339035485420912641
+prefix=.
+game=Simple
+stayinchannel=true
+songinstatus=false
+token=NTQ3MDQyNDI3MTE5MDc1MzI4.D0xCXw.Itt7HqMecXnQuwFfqTup_qb11kk
